@@ -223,4 +223,4 @@ RaceRoom is offered as a **full free version** with all features and updates inc
 Take your racing skills to the next level with RaceRoom! Download your **official RaceRoom free** version today and start racing!
 
 ---
-**Last updated:** 2026-11-14 11:53:04 UTC
+**Last updated:** 2026-11-14 17:24:34 UTC
